@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{ background-color: rgb(198, 229, 218);
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.container{
+    align-items: center;
+    margin: 50px 0 0 250px;
+    height: 25em;
+    width: 50em;
+    background-color: rgba(247, 236, 239, 0.311);
+    border-radius: 10px 10px 0 0;
+}
+
+.container2{
+    margin: 0  0 0 250px;
+    background-color: rgba(200, 209, 33, 0.618);
+    height: 15em;
+    width: 50em;
+    border-radius: 0 0 10px 10px;
+}
+
+.div_inside_div{
+    margin: 50px 0 0 10px;
+    padding-bottom: 10px;
+}
+
+#search_E_ID{
+    margin: 0 0 0 20px; 
+    height: 30px;
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+label{
+    font-weight: bold;
+
+}
+
+#E_ID{
+    margin: 0 0 0 50px; 
+    height: 30px;
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+#fname{
+    margin: 0 0 0 10px; 
+    height: 30px;
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#mi{
+    margin: 0 0 0 61px; 
+    height: 30px;
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#lname{
+    margin: 0 0 0 12px; 
+    height: 30px;
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#age{
+    margin: 0 0 0 60px;
+    height: 30px; 
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#email{
+    margin: 0 0 0 47px;
+    height: 30px; 
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#contact{
+    margin: 0 0 0 33px;
+    height: 30px; 
+    align-items: center;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+#gender{
+    margin: 0 0 0 74px;
+    height: 30px; 
+    align-items: center;
+    box-shadow: inset 2px 2px 2px 0 rgb(38, 38, 38);    
+}
+
+#stats{
+    margin: 0 0 0 20px;
+    height: 30px; 
+    align-items: center;
+    box-shadow: inset 2px 2px 2px 0 rgb(38, 38, 38);
+}
+
+#date{
+    margin: 0 0 0 40px;
+    height: 30px; 
+    align-items: center;
+    font-weight: bold;
+    box-shadow: inset 0 0 1px 0 rgb(38, 38, 38);
+}
+
+.save_button{
+    margin: 10px 0 0 50px; 
+    align-items: center;
+    font-weight: bold;
+    box-shadow: inset 0 0 0 0 rgb(38, 38, 38);
+}
+
+.gen,.emp,.hire,.con{
+    margin: 0 0 0 20em; 
+}
+
+.top{
+    float: right;
+    margin: -10em 85px 0 -1em;
+}
+
+#search_e{
+    background-image: url(https://i.ytimg.com/vi/_NltVXqwGQw/maxresdefault.jpg);
+    background-size: cover;
+    width: 45px;
+    margin: 20px 0 0  0;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+
+}   
+.icon{
+    margin: -30px 0 0 0;
+
+}   
+#E_ID,#fname,#mi,#lname,#age{
+    margin-bottom: 10px;
+}
